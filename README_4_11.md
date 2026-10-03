@@ -9,11 +9,14 @@
 **Frontend:** 
 - Sử dụng mô hình Vite + React + TypeScript + Tailwind CSS
 - Thư viện bổ trợ: Framer-motion, Socket.io-client / SockJS-client.
+
 **Backend:** 
 - Sử dụng framework Java Spring Boot.
 - Mô hình kiến trúc phân lớp (Controller - Service - Repository).
+
 **Database:** 
 - Sử dụng hệ quản trị PostgreSQL làm lữu trữ chính.
+
 **Tools:** 
 - Quản lý các Source Code bằng Git/GitHub.
 
